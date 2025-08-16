@@ -1,0 +1,20 @@
+apikey: "pk1_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+secretapikey: "sk1_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+ipSource: "https://myip.wtf/text"
+reportEndpoint: "https://uptime.example.com/api/push/xxxxxxxxxx?status=up&msg=ip"
+
+records:
+  - domain: "example.com"
+    record: "test"
+    recordType: "A"
+    ttl: "300"
+
+  - domain: "example.com"
+    record: "test2"
+    recordType: "A"
+    ttl: "300"
+    
+  - domain: "example.com"
+    record: "test3"
+    recordType: "A"
+    ttl: "300"
