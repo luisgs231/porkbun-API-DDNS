@@ -31,4 +31,4 @@ You can also run:
 ```bash
 build4All.bat
 ```
-to automatically build binaries for multiple OS/ARCH combinations.
+to automatically build binaries for multiple OS/ARCH combinations. Or you can grag a binary from the releases section.
